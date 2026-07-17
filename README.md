@@ -167,8 +167,6 @@ If you use this work, please cite:
 }
 ```
 
-> TechRxiv preprint: _link coming soon_
-
 ## License
 
 This project is licensed under the MIT License.
