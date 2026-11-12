@@ -7,6 +7,8 @@
 The full written report for this project is available in [`project_report.pdf`](./project_report.pdf).
 
 > **Article Link:** (https://www.preprints.org/manuscript/202606.1345)
+>
+> **Preprint DOI:** [10.20944/preprints202606.1345.v1](https://doi.org/10.20944/preprints202606.1345.v1)
 
 ---
 
@@ -166,6 +168,15 @@ If you use this work, please cite:
   note    = {Vrije Universiteit Amsterdam}
 }
 ```
+
+## Team
+
+Team project at **Vrije Universiteit Amsterdam** (2026).
+Team: Baris Kaban, Goktug Yildirim, Mert Arslan.
+
+**My contributions:** All authors contributed to the experimental design, data analysis and report writing. In addition, I implemented additional analysis code (baseline classifiers, from-scratch implementations, feature importance analysis) and contributed to organising the report structure and refining the written content, as stated in the group's submitted Information Sheet.
+
+A copy is also published by teammate Barış Kaban at [github.com/bariskaban/Phishing-Url-Preprocessing-Study](https://github.com/bariskaban/Phishing-Url-Preprocessing-Study).
 
 ## License
 
